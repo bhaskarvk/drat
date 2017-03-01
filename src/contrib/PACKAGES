@@ -1,0 +1,9 @@
+Package: usgazetteer
+Version: 0.1.2
+Depends: R(>= 3.2.0)
+Imports: dplyr
+Suggests: rvest, magrittr, purrr, memoise, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: cc6d7501c61a005204859e1663564d0d
+NeedsCompilation: no
+
